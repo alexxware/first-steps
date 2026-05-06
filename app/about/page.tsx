@@ -1,8 +1,8 @@
 const AboutPage = () => {
     return (
-        <>
-            <span className="text-7xl">About page</span>
-        </>
+        <div className="flex flex-col items-center p-24">
+            <span className="text-5xl">About Page</span>
+        </div>
     )
 }
 
