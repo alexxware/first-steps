@@ -1,3 +1,7 @@
+export const metadata = {
+    title: 'About page',
+    description: 'SEO Description'
+}
 const AboutPage = () => {
     return (
         <div className="flex flex-col items-center p-24">
